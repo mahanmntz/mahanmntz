@@ -11,7 +11,7 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - :satellite: ContentCreator
 ---
 ## BioGraphy
-- just a tech
+- student?
 
 
 ## 📌 My Social
