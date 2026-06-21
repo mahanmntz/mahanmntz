@@ -16,10 +16,10 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ## 📌 My Social
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirmahdi-montazeri/)
-[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Amirmahdimon)
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/amirmahdimon)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mahanmntz)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/mahanmntz)
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amirmhdimon)
-[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22156629/amirmahdimon)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22156629/mahanmntz)
 
 ## 🛠  My Skills :
 
@@ -33,5 +33,5 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 ---
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/amirmahdimon"><img src="https://github-readme-stats.vercel.app/api?username=amirmahdimon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="amirmahdimon's GitHub stats" /></a>
-<a href="https://github.com/amirmahdimon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirmahdimon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/mahanmntz"><img src="https://github-readme-stats.vercel.app/api?username=mahanmntz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="mahanmntz's GitHub stats" /></a>
+<a href="https://github.com/mahanmntz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmntz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
