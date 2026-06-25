@@ -5,10 +5,7 @@
 ## About Me 
 I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran/Mazandaran.
 
-- :bridge_at_night: I create mobile Applications.
-- :movie_camera: As a Editor I Edit Videos
-- :microphone: Presenter
-- :satellite: ContentCreator
+- :bridge_at_night: I create Applications.
 ---
 ## BioGraphy
 - student?
