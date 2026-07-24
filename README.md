@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;My+name+is+Amirmahdi;I'm+happy+to+see+you,+my+friends!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=be185d&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;My+name+is+Mahan;I'm+happy+to+see+you,+my+friends!&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=be185d&size=30">
 </h1>
 
 ## About Me 
@@ -15,7 +15,7 @@ I am a Flutter developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirmahdi-montazeri/)
 [![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mahanmntz)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/mahanmntz)
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amirmhdimon)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahanmntz)
 [![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22156629/mahanmntz)
 
 ## 🛠  My Skills :
