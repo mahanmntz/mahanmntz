@@ -1,35 +1,53 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mahan;Backend+Engineer+🚀&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=be185d&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mahan;Backend+Engineer+🚀&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=0891b2&size=30" alt="Header Typing">
 </h1>
 
-## About Me 
-I am a Backend Engineer from Iran/Mazandaran.
-
-- Architecting scalable backend systems, microservices & real-time APIs.
+<p align="center">
+  <a href="https://mahanmontazeri.ir"><img src="https://img.shields.io/badge/Portfolio-mahanmontazeri.ir-0891b2?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <img src="https://komarev.com/ghpvc/?username=mahanmntz&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1c1917?style=flat" alt="Focus" />
+</p>
 
 ---
 
-## 📌 My Social
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/amirmahdi-montazeri/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/mahanmntz)
-[![Discord](https://skillicons.dev/icons?i=discord)](https://discord.com/mahanmntz)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/mahanmntz)
-[![StackOverflow](https://skillicons.dev/icons?i=stackoverflow)](https://stackoverflow.com/users/22156629/mahanmntz)
+### ⚡ About Me
+I'm a **Backend Engineer** focused on engineering reliable, distributed, and high-throughput systems.
 
-## 🛠 My Skills :
+- **Current Focus:** Microservices architecture, high-concurrency APIs, and event-driven patterns with **NestJS**, **Node.js**, and **Go**.
 
-### 👨‍💻 Programming Languages :
+---
+
+### 📌 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/amirmahdi-montazeri/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mahanmntz"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://discord.com/mahanmntz"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" /></a>
+  <a href="https://instagram.com/mahanmntz"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://stackoverflow.com/users/22156629/mahanmntz"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" /></a>
+</p>
+
+---
+
+### 🛠 Tech Stack & Toolkit
+
+**Languages & Core:**  
 [![Languages](https://skillicons.dev/icons?i=ts,js,python,go,dart)](https://skillicons.dev)
 
-### 🌵 Frameworks, Databases & Architecture : 
+**Backend, Architecture & Databases:**  
 [![Frameworks & DB](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,graphql)](https://skillicons.dev)
 
-### 💻 DevOps & Tools: 
+**DevOps, System & Tooling:**  
 [![DevOps & Tools](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode)](https://skillicons.dev)
 
 ---
 
-<b>My GitHub Stats</b>
+### 📊 GitHub Activity & Metrics
 
-<a href="http://www.github.com/mahanmntz"><img src="https://github-readme-stats.vercel.app/api?username=mahanmntz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true" alt="mahanmntz's GitHub stats" /></a>
-<a href="https://github.com/mahanmntz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmntz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahanmntz&show_icons=true&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0d1117&hide_border=true&cache_seconds=7200" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahanmntz&layout=compact&title_color=0891b2&text_color=e2e8f0&icon_color=0891b2&bg_color=0d1117&hide_border=true&langs_count=6&cache_seconds=7200" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mahanmntz&theme=tokyonight&background=0d1117&stroke=0891b2&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&hide_border=true" alt="GitHub Streak" width="97%" />
+</p>
