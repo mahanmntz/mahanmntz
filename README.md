@@ -1,19 +1,21 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mahan;Backend+Engineer+🚀&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=0891b2&size=30" alt="Header Typing">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome,+There!+👋;I'm+Mahan;Full-Stack+Engineer+🚀&center=true&font=Vazirmatn&weight=800&duration=3000&pause=1000&height=100&width=500&color=0891b2&size=30" alt="Header Typing">
 </h1>
 
 <p align="center">
   <a href="https://mahanmontazeri.ir"><img src="https://img.shields.io/badge/Portfolio-mahanmontazeri.ir-0891b2?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <img src="https://komarev.com/ghpvc/?username=mahanmntz&label=Profile%20Views&color=0891b2&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Focus-Scalable%20Systems-1c1917?style=flat" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20%7C%20Scalable%20Systems-1c1917?style=flat" alt="Focus" />
 </p>
 
 ---
 
 ### ⚡ About Me
-I'm a **Backend Engineer** focused on engineering reliable, distributed, and high-throughput systems.
+I'm a **Full-Stack Software Engineer** with deep foundations in backend systems, focused on delivering scalable products and seamless end-to-end features.
 
-- **Current Focus:** Microservices architecture, high-concurrency APIs, and event-driven patterns with **NestJS**, **Node.js**, and **Go**.
+- 🛠 **Backend & Systems:** High-throughput APIs, microservices, and event-driven architectures with **Go**, **NestJS / Node.js**, and **PostgreSQL / Redis**.
+- 💻 **Frontend & Mobile:** Interactive, responsive web and mobile interfaces built with **React**, **Next.js**, and **Flutter**.
+- 🎯 **Engineering Philosophy:** Clean abstractions, pragmatic solutions, and owning systems from database schema to UI delivery.
 
 ---
 
@@ -30,14 +32,17 @@ I'm a **Backend Engineer** focused on engineering reliable, distributed, and hig
 
 ### 🛠 Tech Stack & Toolkit
 
-**Languages & Core:**  
-[![Languages](https://skillicons.dev/icons?i=ts,js,python,go,dart)](https://skillicons.dev)
+**Languages:**  
+[![Languages](https://skillicons.dev/icons?i=ts,js,go,python,dart)](https://skillicons.dev)
 
-**Backend, Architecture & Databases:**  
-[![Frameworks & DB](https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,mongodb,redis,graphql)](https://skillicons.dev)
+**Backend & Databases:**  
+[![Backend & DB](https://skillicons.dev/icons?i=nodejs,nestjs,express,fastapi,postgres,mongodb,redis,graphql)](https://skillicons.dev)
 
-**DevOps, System & Tooling:**  
-[![DevOps & Tools](https://skillicons.dev/icons?i=docker,linux,nginx,git,github,postman,vscode)](https://skillicons.dev)
+**Frontend & Mobile:**  
+[![Frontend & Mobile](https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter)](https://skillicons.dev)
+
+**DevOps, Cloud & Tooling:**  
+[![DevOps & Tools](https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,nginx,git,github,postman)](https://skillicons.dev)
 
 ---
 
